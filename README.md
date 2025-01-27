@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Olawumi Olayiwola
+- 👀 I’m interested in 
+- 🌱 I’m currently improving my skills machine learning techniques
+- 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+OlawumiOlayiwola/OlawumiOlayiwola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
